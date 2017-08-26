@@ -283,3 +283,8 @@ LogInit: Object subsystem initialized
 [2017.08.26-06.02.48:230][687]LogOutputDevice:Error: ntdll.dll!0x0000000010D20D51
 [2017.08.26-06.02.48:230][687]LogOutputDevice:Error: 
 [2017.08.26-06.02.48:231][687]LogStats:                SubmitErrorReport -  0.000 s
+[2017.08.26-06.02.53:568][687]LogStats:                    SendNewReport -  5.338 s
+[2017.08.26-06.02.53:568][687]LogStats:             FDebug::EnsureFailed -  6.185 s
+[2017.08.26-06.03.04:570][160]SourceControl: Info fatal: E:/Paragon/UE_4.16/Engine/Content/EditorBlueprintResources/StandardMacros.uasset: 'E:/Paragon/UE_4.16/Engine/Content/EditorBlueprintResources/StandardMacros.uasset' is outside repository
+[2017.08.26-06.03.04:720][160]SourceControl:Error: Error error: cannot pull with rebase: You have unstaged changes.
+[2017.08.26-06.03.04:720][160]SourceControl:Error: Error error: please commit or stash them.
